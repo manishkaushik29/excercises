@@ -1,0 +1,19 @@
+Create an Employee class with following instane attributes empid, empname, salary , managerid(Defaault=None)
+Class Employee:
+  .....
+  .....
+  
+  create an instance method to assign manager to each employee. 
+  a)There should be a check while assigning the manager to employee
+    that if the Manager is an existing employee 
+  b)Assigned manager salary > employee salary
+  create an description method which will print the empid, name, salary and managerid and manager name
+  
+  
+  example
+  
+  emp1 = Employee(1,'ak, 10000)
+  emp2 = Employee(2,'as' 20000)
+  emp3 = Employee(3,'ss' 30000)
+  
+  so emp1.assignmanager(4)---Not valid as there exists no employee with employee id 4
