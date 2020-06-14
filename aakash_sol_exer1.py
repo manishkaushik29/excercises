@@ -18,5 +18,5 @@ def lols(s):
 
 p = lols("abcabcbb")
 q=lols("bbbbbb")
-w=lols("pwkeeee")
+w=lols("pwkeeertrr")
 print(p)
